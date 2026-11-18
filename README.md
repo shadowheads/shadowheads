@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shadowheads/shadowheads/main/assets/header.svg" alt="Kovak" width="100%">
+<img src="https://raw.githubusercontent.com/shadowheads/shadowheads/main/assets/header.svg" alt="Netro" width="100%">
 
-# Kovak
+# Netro
 
 [![Profile views](https://komarev.com/ghpvc/?username=shadowheads&style=flat-square&color=8b5cf6&label=profile%20views)](https://github.com/shadowheads)
 [![Followers](https://img.shields.io/github/followers/shadowheads?style=flat-square&color=8b5cf6&logo=github)](https://github.com/shadowheads?tab=followers)
