@@ -22,13 +22,6 @@
 - 🌐 [howtofix.id](https://howtofix.id)
 - 🛠️ Python · Go · JavaScript · Rust
 
-## 项目
-
-| 项目 | 说明 |
-|---|---|
-| [railway2proxy](https://github.com/shadowheads/railway2proxy) | 把 Railway 账号变成可控制的代理出口点：账号管理、代理网关与本地控制面板 |
-
-> 该仓库为私有仓库。其余以 `nova` 开头的仓库属于其他账号，不在我的名下。
 
 ## 最近在做的事
 
